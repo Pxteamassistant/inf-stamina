@@ -1,2 +1,0 @@
-# inf-stamina
-yep
